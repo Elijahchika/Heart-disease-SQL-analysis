@@ -9,15 +9,15 @@
 
 ### Overall Heart Disease Analysis
 
-![Overall Heart Disease Analysis](SQL/screenshots/overall_analysis.png)
+![Overall Heart Disease Analysis](overall_analysis.png)
 
 ### Heart Disease by Chest Pain Type
 
-![Chest Pain Analysis](SQL/screenshots/chest_pain_analysis.png)
+![Chest Pain Analysis](chest_pain_analysis.png)
 
 ### Heart Disease by Age Group
 
-![Age Group Analysis](SQL/screenshots/age_group_analysis.png)
+![Age Group Analysis](age_group_analysis.png)
 
 ## 📊 Project Overview
 
